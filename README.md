@@ -37,4 +37,4 @@ Trading is encouraged, surviving is not.
 -A ressource other than points need to exist to balance army composition
 -Missions should be actual tactical puzzle to accomplish an objective, not just always a midfield brawl            
 -Most guns should be able to shoot from one side of the table to the other    
--Indirect fire guns should award victory points, not hits 20m away.      
+-Indirect fire guns should award victory points, not hits 20m away. It makes defending those guns a compelling narrative for the attacker, and the defender is rewarded for doing so.             
