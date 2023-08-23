@@ -52,5 +52,12 @@ From this balance consideration, we get into a core decision of which level of v
  
 
 
+## USR     
 
- 
+### Guided-Missile
+An infantry unit containting a model firing a Guided-Missile can make no further movement this turn. Moreover, a shooting unit can only assign each target unit with only one Guided-Missile weapon per activation.
+
+### Lock-On
+If the model firing a Lock-On weapon had LOS on the target unit when the firing model unit was first activated this turn, add +1 to the hit roll.
+
+### Fire and Forget
