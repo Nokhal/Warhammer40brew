@@ -28,13 +28,13 @@ Trading is encouraged, surviving is not.
 
 ## Design philosophy 
 
->Players action should be fast paced and done as interactively as possible : EG being LOTR, Kill Team         
->Armies should have playstyles that separate them from each others             
->Each unit should have a role that their rules allow them to do well, so that balance can come from points/other ressource spending and not making a garbage unit so cheap that their new role become being a filler.      
->Similar guns should have the same profile accross all armies      
->All the rules to play a unit should be present on the datasheet         
->Army wide rules should fit on a single page          
->A ressource other than points need to exist to balance army composition
->Missions should be actual tactical puzzle to accomplish an objective, not just always a midfield brawl            
->Most guns should be able to shoot from one side of the table to the other    
->Indirect fire guns should award victory points, not hits 20m away.      
+-Players action should be fast paced and done as interactively as possible : EG being LOTR, Kill Team         
+-Armies should have playstyles that separate them from each others             
+-Each unit should have a role that their rules allow them to do well, so that balance can come from points/other ressource spending and not making a garbage unit so cheap that their new role become being a filler.      
+-Similar guns should have the same profile accross all armies      
+-All the rules to play a unit should be present on the datasheet         
+-Army wide rules should fit on a single page          
+-A ressource other than points need to exist to balance army composition
+-Missions should be actual tactical puzzle to accomplish an objective, not just always a midfield brawl            
+-Most guns should be able to shoot from one side of the table to the other    
+-Indirect fire guns should award victory points, not hits 20m away.      
