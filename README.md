@@ -57,7 +57,8 @@ Accounting should be limited to direct gameplay interactions
 Most infantry units should only have 1W : the model is either combat effective or mission kill. Mission kill doesn't mean that the model is dead, just unable to fight.                
         
 Basic gameplay should be alternate activation            
-When being shot at, player can order their unit to "take cover", giving the shot massively reduced lethality but also rendering the shot at unit combat ineffective for a turn.       
+When being shot at, player can order their unit to "take cover", giving the shot massively reduced lethality but also rendering the shot at unit combat ineffective for a turn.   
+>Idea : Taking cover skip your activation this turn, already activated units cannot take cover. Highly important choice of activating a unit or not and acivation order. No going first is always better.
 
 
 ## USR     
