@@ -43,12 +43,12 @@ In real life, the reason you don't have squad of 10 atgm or squad of 10 stingers
 On the tabletop, this sucks because a single missile launcher in a tactical squad doesn't really give you a reliable ability to deal with armoured threat, much betterto stack those ATGM in dedicated anti-tank squads and have this squad deal with a tank a turn.             
     
 From this balance consideration, we get into a core decision of which level of verisimulute/overall gameplay we want our game to go : 
--High lethality if you are seen and a gun hit you you are dead
--Gamey arcade health bars that never deplete
--Which level of rock/paper/scissors exist for units against each other ?   
--Which level of reliability/lethality for weapon systems ? (eg : a missile deal always 10 damage a tank is 10hp but the missile hit only 1/3 of the time (average shot to kill per tank = 3), or a missile deal 5 damage, the tank is 10HP but the missile hit 2/3 of the time (average shot to kill per tank = 3).
--How much accountant work on the tabletop (tracking wounds, variable profile, etc...)    
--Which level of abstraction : eg Each model fire and each loss depelete the unit firepower vs the unit fire as a whole until removed and models are just visual representation of HP for the unit)
+-High lethality if you are seen and a gun hit you you are dead           
+-Gamey arcade health bars that slowly deplete                 
+-Which level of rock/paper/scissors exist for units against each other ?                  
+-Which level of reliability/lethality for weapon systems ? (eg : a missile deal always 10 damage a tank is 10hp but the missile hit only 1/3 of the time (average shot to kill per tank = 3), or a missile deal 5 damage, the tank is 10HP but the missile hit 2/3 of the time (average shot to kill per tank = 3).               
+-How much accountant work on the tabletop (tracking wounds, variable profile, etc...)              
+-Which level of abstraction : eg Each model fire and each loss depelete the unit firepower vs the unit fire as a whole until removed and models are just visual representation of HP for the unit)                   
  
 
 
