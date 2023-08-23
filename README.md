@@ -51,13 +51,19 @@ From this balance consideration, we get into a core decision of which level of v
 -Which level of abstraction : eg Each model fire and each loss depelete the unit firepower vs the unit fire as a whole until removed and models are just visual representation of HP for the unit)                   
  
 
+Answers : 
+Game should be "high swing" instead of "reliable". Reliable is better for video game, high swing better for "le epic narrative moment".               
+Accounting should be limited to direct gameplay interactions 
+Most infantry units should only have 1W : the model is either combat effective or mission kill. Mission kill doesn't mean that the model is dead, just unable to fight.                  
+
 
 ## USR     
 
 ### Guided-Missile
-An infantry unit containting a model firing a Guided-Missile can make no further movement this turn. Moreover, a shooting unit can only assign each target unit with only one Guided-Missile weapon per activation.
+A unit containting a model firing a Guided-Missile can make no further movement this turn. Moreover, a shooting unit can only assign each target unit with only one Guided-Missile weapon per activation.
 
 ### Lock-On
 If the model firing a Lock-On weapon had LOS on the target unit when the firing model unit was first activated this turn, add +1 to the hit roll.
 
 ### Fire and Forget
+A Fire and Forget weapon that is also a Guided-Missile weapon ignore the restriction to movement of the Guided-Missile rule. The firing unit can move as if the weapon did not have the Guided-Missile rule.     
