@@ -53,8 +53,8 @@ From this balance consideration, we get into a core decision of which level of v
 
 Answers : 
 Game should be "high swing" instead of "reliable". Reliable is better for video game, high swing better for "le epic narrative moment".               
-Accounting should be limited to direct gameplay interactions 
-Most infantry units should only have 1W : the model is either combat effective or mission kill. Mission kill doesn't mean that the model is dead, just unable to fight.                  
+Accounting should be limited to direct gameplay interactions              
+Most infantry units should only have 1W : the model is either combat effective or mission kill. Mission kill doesn't mean that the model is dead, just unable to fight.                   
 
 
 ## USR     
