@@ -64,15 +64,15 @@ Shooting sequence :
 ?
    
 Fight Sequence : Need to be simultaneous. No removing models before they strike. Need to be in base contact with someone in engagement range for a model to assign attacks. Attacks assigned per units. 
-Two dice kind in fight phase ? Duelling and striking ?  
->Each model pick a weapon to fight with during this fight phase.
->If your unit use different weapons, keep track of which dices represent which weapon
->Both units roll all their duelling dice
->The activated unit player (the attacker) can then use any of the duelling dice it has rolled to cancel one of the other player (the defender) rolled dice as long as the dice removed by the attacking player has a result superior or equal to the result of the defending player.
->The defender can then do the same on the attacker.
->Any leftover dice are added to the strike pool of each player. Some weapons might give bonus strike dice, to represent their lethality. Those weapon usually have a low duelling dice number.
+Two dice kind in fight phase ? Duelling and striking ?              
+>Each model pick a weapon to fight with during this fight phase.                      
+>If your unit use different weapons, keep track of which dices represent which weapon                  
+>Both units roll all their duelling dice                         
+>The activated unit player (the attacker) can then use any of the duelling dice it has rolled to cancel one of the other player (the defender) rolled dice as long as the dice removed by the attacking player has a result superior or equal to the result of the defending player.                         
+>The defender can then do the same on the attacker.                          
+>Any leftover dice are added to the strike pool of each player. Some weapons might give bonus strike dice, to represent their lethality. Those weapon usually have a low duelling dice number.                    
 
-This allows for several archetype of melee units based on their gear, from meat blenders (eg : Lightning claws) that have a lots of attacks and decent strike capacity, Defensive melee shield that can be used to simply defend against ennemies dices, or hard to swing around weapons (TH, PF) that nonetheless guarantee strike dices.
+This allows for several archetype of melee units based on their gear, from meat blenders (eg : Lightning claws) that have a lots of attacks and decent strike capacity, Defensive melee shield that can be used to simply defend against ennemies dices, or hard to swing around weapons (TH, PF) that nonetheless guarantee strike dices.              
 
 
 ## USR     
